@@ -4,7 +4,7 @@ import { BsChevronDown } from "react-icons/bs";
 import { useDispatch, useSelector } from "react-redux";
 import { Link, matchPath, useLocation , useNavigate } from "react-router-dom";
 
-import logo from "../../assets/Logo/study4U_logo_light.png";
+import logo from "../../assets/Logo/study4U_logo_light _new.png";
 import { NavbarLinks } from "../../data/navbar-links";
 import { apiConnector } from "../../services/apiconnector";
 import { categories } from "../../services/apis";

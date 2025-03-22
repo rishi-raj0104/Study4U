@@ -3,7 +3,7 @@ import { FooterLink2 } from "../../data/footer-links";
 import { Link } from "react-router-dom";
 // Images
 
-import logo2 from "../../assets/Logo/study4u_logo_light.png";
+import logo2 from "../../assets/Logo/study4U_logo_light _new.png";
 // Icons
 import { FaFacebook, FaGoogle, FaTwitter, FaYoutube } from "react-icons/fa";
 
