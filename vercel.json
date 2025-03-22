@@ -1,4 +1,8 @@
-export default defineConfig({
-  base: '/',
-  plugins: [react()],
-});
+{
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "/index.html"
+      }
+    ]
+  }
