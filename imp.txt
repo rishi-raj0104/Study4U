@@ -1,0 +1,32 @@
+npm create vite@latest ./
+npm install
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+
+npm i react-icons
+npm install @ramonak/react-progress-bar  
+npm install @reduxjs/toolkit  
+npm install axios  
+npm install chart.js  
+npm install concurrently  
+npm install copy-to-clipboard  
+npm install react  
+npm install react-chartjs-2  
+npm install react-dom  
+npm install react-dropzone  
+npm install react-hook-form  
+npm install react-hot-toast  
+npm install react-icons  
+npm install react-markdown  
+npm install react-otp-input  
+npm install react-rating-stars-component  
+npm install react-redux  
+npm install react-router-dom  
+npm install react-scripts  
+npm install react-super-responsive-table  
+npm install react-type-animation  
+npm install redux-toolkit  
+npm install swiper  
+npm install video-react  
+npm install web-vitals  
