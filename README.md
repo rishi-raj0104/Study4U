@@ -1,12 +1,51 @@
-<<<<<<< HEAD
-# Study4U
-=======
-# React + Vite
+Study4U
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Study4U is a platform designed to provide students with quality educational resources and learning tools. The project aims to enhance the learning experience through interactive features and well-structured content.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 97b7908 (Initial commit)
+Comprehensive study materials
+
+User-friendly interface
+
+Responsive design for seamless access on any device
+
+Tech Stack
+
+Frontend: React, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+State Management: Redux Toolkit
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/yourusername/study4u.git
+
+Navigate to the project folder:
+
+cd study4u
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Contribution
+
+Contributions are welcome! Feel free to submit issues and pull requests.
+
+License
+
+This project is licensed under the MIT License.
+
+Contact
+
+For any queries, reach out at your-email@example.com.
